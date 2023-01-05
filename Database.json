@@ -1,0 +1,61 @@
+[
+{
+"Id": "AAA2000",
+"ProductName": "MacBook Pro 13 inches",
+"GraphicName": "nvidia geforce 9400m 256 mb",
+"CostPrice": "1999.99",
+"MSRB": "1750.20",
+"QtyOnHanad": "125",
+"QtyOnBackOrder": "179",
+"Brand": "Apple",
+"Description": "It’s razor-thin, feather-light, and even faster and more powerful than before. It has the brightest, most colourful Mac notebook display ever. And it features the Touch Bar — a Multi-Touch-enabled strip of glass built into the keyboard for instant access to the tools you want, right when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours."
+
+},
+{
+"Id": "AAA2120",
+"ProductName": "MacBook Air",
+"GraphicName": "nvidia geforce 9400m 256 mb",
+"CostPrice": "1300.99",
+"MSRB": "1199.00",
+"QtyOnHanad": "19",
+"QtyOnBackOrder": "98",
+"Brand": "Apple",
+"Description": "MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off."
+
+},
+{
+"Id": "AAA5900",
+"ProductName": "iMac Pro",
+"GraphicName": "Radeon Pro Vega graphics",
+"CostPrice": "6499.00",
+"MSRB": "6299.00",
+"QtyOnHanad": "10",
+"QtyOnBackOrder": "50",
+"Brand": "Apple",
+"Description": "An iMac with 4 cores is remarkable enough. But an iMac with 8, 10, 14 or 18 cores is an entirely different creature."
+
+},
+{
+"Id": "AAA3900",
+"ProductName": "Mac Pro",
+"GraphicName": "Dual AMD FirePro",
+"CostPrice": "3699.00",
+"MSRB": "3499.00",
+"QtyOnHanad": "40",
+"QtyOnBackOrder": "120",
+"Brand": "Apple",
+"Description": "Mac has always been built around a singular vision: to create machines that are as powerful and functional as they are beautiful and intuitive. Mac Pro is a stunning realization of that ideal. All the elements that define a pro computer — graphics, storage, expansion, processing power and memory — have been re-thought and re-engineered. So you have the power and performance to bring your biggest ideas to life."
+
+},
+{
+"Id": "AAA2300",
+"ProductName": "Mac Mini",
+"GraphicName": "Intel Iris Graphics",
+"CostPrice": "599.00",
+"MSRB": "599.00",
+"QtyOnHanad": "80",
+"QtyOnBackOrder": "100",
+"Brand": "Apple",
+"Description": "Mac mini is an affordable powerhouse that packs the entire Mac experience into a 19.7-cm-square frame. Just connect your own display, keyboard and mouse, and you’re ready to make big things happen."
+}
+]

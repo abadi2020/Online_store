@@ -1,0 +1,67 @@
+﻿@model BrandViewModel
+    @{
+        ViewData["Title"] = "Index";
+    }
+    <div class="col-sm-2 col-xs-12">&nbsp;</div>
+    <div class="text-center col-sm-8 col-xs-12">
+        <form asp-controller="Brand" asp-action="SelectBrand" method="post">
+            <div class="col-sm-4 col-xs-12">&nbsp;</div>
+            <div class="col-sm-4 col-xs-12" style="padding-bottom:5%;">
+                <span style="font-size:large;top:20px;position:relative;padding:5px;">Categories</span>
+                <select asp-for="BrandId" asp-items="@Model.GetBrands()" style="top:35px;position:relative;padding:5px;"
+                        class="form-group form-control" onchange="this.form.submit();">
+                    <option selected style="display:none;">Select Brand</option>
+                </select>
+            </div>
+            <div class="col-sm-4 col-xs-12">&nbsp;</div>
+            <catalogue category="@Model.BrandId"></catalogue>
+        </form>
+       
+</div>
+
+  <div class="modal" id="details_popup">
+      <div class="modal-dialog">
+          <div class="modal-content col-xs-12">
+              <div class="modal-body">
+                  <a href="" style="font-size:xx-large" data-dismiss="modal" class="pull-right">X</a>
+                  <div class="text-center">
+                      <h4 style="float:none;" id="ProductName"></h4>
+                      <img alt="" width="200" height="200" id="detailsGraphic" style="float:none;" />
+                      
+                      <div style="float:none;" id="Price"></div>
+                  </div>
+                  <form  id="brandsForm" asp-controller="Brand" asp-action="SelectProduct" method="post" role="form">
+                      <div class="text-center col-sm-offset-1">
+                         
+                              <div style="width:100%;" class="col-xs-10 text-left" id="Description"></div>
+                              
+
+                              
+                                  <div  class="text-left col-sm-offset-5">Qty:</div>
+                                  <div style="padding-bottom:10px;" class="text-left col-sm-offset-5">
+                                      <input asp-for="Qty" type="number" maxlength="3" size="3" style="width: 50px;" id="qty" />
+                                      <input asp-for="Id" type="hidden" id="detailsId" />
+                                  </div>
+                             
+                              
+                        
+                      </div>
+                      <div class="text-center">
+                          <button style="background-color:gainsboro;" type="submit" class="btn btn-sm btn-default" id="modalbtn">Add To Cart</button>
+
+                          <button id="btnRemove" type="submit" class="btn-sm btn btn-danger">Remove Item</button>
+                          <a href="/Cart" class="btn btn-sm btn-success">View Cart</a>
+
+                       
+
+                      </div>
+                  </form>
+              </div>
+              <div style="overflow:auto;" class="modal-footer">
+                  <div id="results" class="text-center">
+                      @ViewBag.AddMessage
+                  </div>
+              </div>
+          </div><!--modal-content-->
+      </div><!--modal-dialog-->
+  </div><!--modal-->

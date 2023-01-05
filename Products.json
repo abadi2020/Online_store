@@ -1,0 +1,173 @@
+[
+{
+"Id": "AAA2000",
+"ProductName": "MacBook Pro 13 inches",
+"GraphicName": "mac13.png",
+"CostPrice": "1999.99",
+"MSRB": "1750.20",
+"QtyOnHanad": "125",
+"QtyOnBackOrder": "179",
+"Brand": "Apple",
+"Description": "It’s razor-thin, feather-light, and even faster and more powerful than before. It has the brightest, most colourful Mac notebook display ever. And it features the Touch Bar — a Multi-Touch-enabled strip of glass built into the keyboard for instant access to the tools you want, right when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours."
+
+},
+{
+"Id": "AAA2120",
+"ProductName": "MacBook Air",
+"GraphicName": "macair.jpg",
+"CostPrice": "1300.99",
+"MSRB": "1199.00",
+"QtyOnHanad": "19",
+"QtyOnBackOrder": "98",
+"Brand": "Apple",
+"Description": "MacBook Air lasts up to an incredible 12 hours between charges. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 12 hours of iTunes movie playback. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off."
+
+},
+{
+"Id": "AAA5900",
+"ProductName": "iMac Pro",
+"GraphicName": "iMacPro.png",
+"CostPrice": "6499.00",
+"MSRB": "6299.00",
+"QtyOnHanad": "10",
+"QtyOnBackOrder": "50",
+"Brand": "Apple",
+"Description": "An iMac with 4 cores is remarkable enough. But an iMac with 8, 10, 14 or 18 cores is an entirely different creature."
+
+},
+{
+"Id": "AAA3900",
+"ProductName": "Mac Pro",
+"GraphicName": "MacPro.png",
+"CostPrice": "3699.00",
+"MSRB": "3499.00",
+"QtyOnHanad": "40",
+"QtyOnBackOrder": "120",
+"Brand": "Apple",
+"Description": "Mac has always been built around a singular vision: to create machines that are as powerful and functional as they are beautiful and intuitive. Mac Pro is a stunning realization of that ideal. All the elements that define a pro computer — graphics, storage, expansion, processing power and memory — have been re-thought and re-engineered. So you have the power and performance to bring your biggest ideas to life."
+
+},
+{
+"Id": "AAA2300",
+"ProductName": "Mac Mini",
+"GraphicName": "MacMini.png",
+"CostPrice": "599.00",
+"MSRB": "599.00",
+"QtyOnHanad": "80",
+"QtyOnBackOrder": "100",
+"Brand": "Apple",
+"Description": "Mac mini is an affordable powerhouse that packs the entire Mac experience into a 19.7-cm-square frame. Just connect your own display, keyboard and mouse, and you’re ready to make big things happen."
+},
+{
+"Id": "MMM2000",
+"ProductName": "Microsoft Surface Pro",
+"GraphicName": "Microsoft Surface Pro Core M 4GB 128GB.jpg",
+"CostPrice": "1199.99",
+"MSRB": "1049.00",
+"QtyOnHanad": "12",
+"QtyOnBackOrder": "3",
+"Brand": "Microsoft",
+"Description": "A best-in-class laptop, with the versatility of a studio and tablet with powerful Intel Core processor. "
+},
+{
+"Id": "MMM3000",
+"ProductName": "Microsoft Surface Laptop",
+"GraphicName": "Microsoft Surface Laptop.png",
+"CostPrice": "1250.99",
+"MSRB": "1069.00",
+"QtyOnHanad": "2",
+"QtyOnBackOrder": "90",
+"Brand": "Microsoft",
+"Description": "Four tone-on-tone color combinations¹ and sleek, elegant design, Luxurious Alcantara material-covered keyboard, Ultra-thin and light laptop fits easily in your bag "
+},
+{
+"Id": "MMM4000",
+"ProductName": "Microsoft Surface Book 2",
+"GraphicName": "Microsoft Surface Book 2.jpg",
+"CostPrice": "2050.00",
+"MSRB": "1979.00",
+"QtyOnHanad": "50",
+"QtyOnBackOrder": "50",
+"Brand": "Microsoft",
+"Description": "Power professional-grade software all day with the latest quad-core Intel processors and the best graphics performance yet with the latest NVIDIA GeForce GPUs."
+},
+{
+"Id": "MMM5000",
+"ProductName": "Microsoft Surface Studio i5",
+"GraphicName": "Microsoft Surface Studio.jpg",
+"CostPrice": "4000.00",
+"MSRB": "3999.00",
+"QtyOnHanad": "20",
+"QtyOnBackOrder": "10",
+"Brand": "Microsoft",
+"Description": "Surface Studio is an entirely new device designed for the creative process. Its roomy and adjustable 28-inch PixelSense Display provides a huge canvas for all kinds of work. Position it upright to sketch, paint, and edit photos, or lay it flat to draw on it like a drafting table. With Surface Studio, the possibilities are limitless."
+},
+{
+"Id": "MMM6000",
+"ProductName": "Microsoft Surface Studio i7",
+"GraphicName": "Microsoft Surface Studio.jpg",
+"CostPrice": "4600.00",
+"MSRB": "4599.00",
+"QtyOnHanad": "10",
+"QtyOnBackOrder": "10",
+"Brand": "Microsoft",
+"Description": "Surface Studio is an entirely new device designed for the creative process. Its roomy and adjustable 28-inch PixelSense Display provides a huge canvas for all kinds of work. Position it upright to sketch, paint, and edit photos, or lay it flat to draw on it like a drafting table. With Surface Studio, the possibilities are limitless."
+},
+{
+"Id": "LLL6000",
+"ProductName": "Lenovo ThinkPad X1 Carbon",
+"GraphicName": "Lenovo ThinkPad X1 Carbon.png",
+"CostPrice": "1800.50",
+"MSRB": "1777.50",
+"QtyOnHanad": "100",
+"QtyOnBackOrder": "100",
+"Brand": "Lenovo",
+"Description": "With its stunning, new look, the ultralight ThinkPad X1 Carbon merges elegant design, seamless responsiveness, and legendary durability to create the ultimate in mobile productivity. Global LTE-A (optional) connectivity option, up to 15 hours of battery life and optional multi-touch screen —along with RapidCharge technology—keep you on-task wherever the road leads. What's more, it weighs less than 2.5 lbs."
+},
+{
+"Id": "LLL7000",
+"ProductName": "Lenovo ThinkPad X280",
+"GraphicName": "Lenovo ThinkPad X280.png",
+"CostPrice": "1450.00",
+"MSRB": "1376.10",
+"QtyOnHanad": "7",
+"QtyOnBackOrder": "17",
+"Brand": "Lenovo",
+"Description": "The thin and ultralight ThinkPad X280 optimizes your journey to success. All-day battery life with RapidCharge ensures uninterrupted inspiration on the go. And whether you’re in the office, at the corner cafe, or at 30,000 feet, you can rest assured your ideas stay yours with enhanced security features."
+},
+{
+"Id": "LLL8000",
+"ProductName": "Lenovo ThinkPad T480",
+"GraphicName": "Lenovo ThinkPad T480.png",
+"CostPrice": "1000.00",
+"MSRB": "999.99",
+"QtyOnHanad": "10",
+"QtyOnBackOrder": "40",
+"Brand": "Lenovo",
+"Description": "Raise the bar with the ThinkPad T480. Boasting the latest power-packed processors and all-day battery life, this 14-in laptop is robust yet light enough to accompany you anywhere. Practical touches include an optional backlit keyboard and an array of ports, while the enhanced security features help safeguard your work wherever the job takes you."
+},
+{
+"Id": "LLL9000",
+"ProductName": "Lenovo ThinkPad T480s",
+"GraphicName": "Lenovo ThinkPad T480.png",
+"CostPrice": "1550.00",
+"MSRB": "1521.90",
+"QtyOnHanad": "11",
+"QtyOnBackOrder": "14",
+"Brand": "Lenovo",
+"Description": "Light, thin, and built to perform anywhere, the ThinkPad T480s delivers what you need, when you need it. Powerful processing, optional discrete graphics, and Dolby® Audio Premium™ take efficiency to new heights. In addition, the enhanced security features maintain maximum protection and peace of mind wherever you roam."
+},
+{
+"Id": "LLL10000",
+"ProductName": "Lenovo ThinkPad E575",
+"GraphicName": "Lenovo ThinkPad T480s.jpg",
+"CostPrice": "600.00",
+"MSRB": "593.90",
+"QtyOnHanad": "1",
+"QtyOnBackOrder": "24",
+"Brand": "Lenovo",
+"Description": "Powerful and durable, the ThinkPad E575 is light enough to go wherever your business takes you. Designed to enhance productivity, the 15.6 laptop has smooth, fast processing, a hi-res display, and an ergonomic keyboard as standard. It can also be configured to best meet your business needs for PC storage, memory, graphics—and budget."
+}
+
+]
+
